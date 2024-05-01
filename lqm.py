@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-# 20201020 - Add a function to add a single prefix to a local prefixlist - Dan
 import cloudgenix
 import argparse
 from cloudgenix import jd, jd_detailed
